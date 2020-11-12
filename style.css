@@ -142,3 +142,7 @@ iframe {
     display: flex;
     flex-direction: row-reverse;
 }
+.authors {
+    background-color: white;
+    color: #9C27B0;
+}
